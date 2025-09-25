@@ -63,4 +63,3 @@ Product of matrices is:
 139 154
 ```
 
-## Implementation
